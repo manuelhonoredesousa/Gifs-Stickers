@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Gifs & Stickers",
+    "slug": "Gifs_and_Stickers",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/Assets/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "androidStatusBar": {
+      "backgroundColor": "#C4C4CC",
+      "translucent": false
+    },
+    "splash": {
+      "image": "./src/Assets/splash_Model.png",
+      "resizeMode": "cover"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/Assets/ic_launcher.png",
+        "backgroundColor": "#fff"
+      }
+    },
+    "web": {
+      "favicon": "./src/Assets/ic_launcher.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "917b1fce-d9d8-4e27-844a-88355d0944e1"
+      }
+    }
+  }
+}
