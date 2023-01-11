@@ -12,6 +12,9 @@ The app offers a simple and fun way to find the perfect GIF or Sticker for any o
 
 <hr>
 
+* After download the project, run "npm install" and after "npx expo start"
+
+
 **Download For Android:** <a href="https://www.mediafire.com/file/w9940fchsqdyqdq/Gifs_%2526_Stickers.apk" target="_blank"> Download on MediaFire </a>
 
 **Previews:**
