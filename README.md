@@ -16,10 +16,10 @@ The app offers a simple and fun way to find the perfect GIF or Sticker for any o
 
 **Previews:**
 
-<img src="https://i.postimg.cc/Pqd6zY4C/home.jpg" alt="home">
-<img src="https://i.postimg.cc/zGCtg0nm/empty-list.jpg" alt="empty_list">
-<img src="https://i.postimg.cc/MTTdgwgx/results.jpg" alt="results">
-<img src="https://i.postimg.cc/BvNmhbYM/details.jpg" alt="details">
+<img src="https://i.postimg.cc/Pqd6zY4C/home.jpg" width="200px" alt="home">
+<img src="https://i.postimg.cc/zGCtg0nm/empty-list.jpg" width="200px" alt="empty_list">
+<img src="https://i.postimg.cc/MTTdgwgx/results.jpg" width="200px" alt="results">
+<img src="https://i.postimg.cc/BvNmhbYM/details.jpg" width="200px" alt="details">
 
 <hr>
 
